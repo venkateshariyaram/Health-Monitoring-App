@@ -1,0 +1,11 @@
+SleepHours,StudyHours,ScreenTime,WaterIntake,ExerciseMinutes,BurnoutRisk
+8,4,3,3,45,Low
+7,5,4,3,30,Low
+6,7,6,2,20,Medium
+5,8,8,2,10,High
+4,10,10,1,0,High
+8,3,2,4,60,Low
+6,6,5,2,20,Medium
+5,9,9,1,5,High
+7,5,5,3,30,Low
+6,7,7,2,15,Medium

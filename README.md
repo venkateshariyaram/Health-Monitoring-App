@@ -1,7 +1,5 @@
 # Health-Monitoring-App
 
-# 🩺 Health Monitoring App
-
 ## 📖 Description
 
 The **Health Monitoring App** is a digital healthcare application designed to help users monitor and manage their health-related information. It allows users to track important health metrics, maintain health records, and receive insights to support better health management.
@@ -40,16 +38,3 @@ The application provides an easy-to-use platform for recording health data such 
 - Remote health monitoring
 - Preventive healthcare support
 - Lifestyle improvement
-
-## 🎯 Future Improvements
-
-- Integration with wearable devices
-- AI-based health recommendations
-- Doctor consultation features
-- Medication tracking
-- Real-time health alerts
-- Cloud-based health data synchronization
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
